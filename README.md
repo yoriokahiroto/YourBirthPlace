@@ -26,3 +26,4 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 5. ヒカルの碁
 6. Hanayamata
 7. Full Metal Alchemist
+8. Fullmetal Alchemist: Brotherhood
