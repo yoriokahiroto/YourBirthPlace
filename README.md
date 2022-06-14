@@ -6,3 +6,4 @@
  - Wood Job
  - Shin Godzilla
  - Summer Wars
+ - spirited away
