@@ -21,4 +21,5 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 # List of Hobby
 1. Love Live!
 2. ワンピース
-3. 夏目友人帳</br>
+3. 夏目友人帳
+4. Puella Magi Madoka Magica
