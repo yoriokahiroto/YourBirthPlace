@@ -23,3 +23,5 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 2. ワンピース
 3. 夏目友人帳
 4. Puella Magi Madoka Magica
+5. SPY x FAMILY
+6. Little Busters!
