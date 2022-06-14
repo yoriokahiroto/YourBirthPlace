@@ -35,3 +35,5 @@ Choices
 7. Others
 
 # List of Hobby
+- Breaststroke
+- Crawlstroke
