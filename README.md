@@ -22,4 +22,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # Please-tell-me-your-favorite-Electronics-company
 1. Lenovo
-
+2. Sony
