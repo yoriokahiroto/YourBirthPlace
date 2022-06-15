@@ -32,4 +32,5 @@ Goal - I want contributors to help me list some favorite programing language
 6. python
 7. R
 8. Java
-9. Ocaml
+9. JavaScript
+10. Ocaml
