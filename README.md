@@ -14,5 +14,6 @@ conflict対策として、リストの間に入れていただけると幸いで
 鮭　サーモン　salmon
 
 # My favorite sushi（Example) 
-鮭　サーモン Chum</br>
-マグロ
+1. 鮭　サーモン Chum
+2. マグロ
+3. うに
