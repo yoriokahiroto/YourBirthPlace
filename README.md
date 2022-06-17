@@ -9,6 +9,7 @@ conflict対策として、リストの間に入れていただけると幸いで
 かにかま　にぎり　Kanikama Nigiri</br>
 甘エビ Sweet shrimp</br>
 鰤　ブリ　yellowtail</br>
+翻車魚　マンボウ　Sunfish</br>
 玉子　たまご Egg</br>
 鮪　マグロ　Tuna</br>
 鮭　サーモン　salmon
