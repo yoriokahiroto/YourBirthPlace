@@ -11,7 +11,8 @@ conflict対策として、リストの間に入れていただけると幸いで
 鰤　ブリ　yellowtail</br>
 玉子　たまご Egg</br>
 鮪　マグロ　Tuna</br>
-鮭　サーモン　salmon
+鮭　サーモン　salmon</br>
+ハンバーグ</br>
 
 # My favorite sushi（Example) 
 1. 鮭　サーモン Chum
