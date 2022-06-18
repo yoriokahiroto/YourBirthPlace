@@ -15,20 +15,25 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-Thanks for visiting this repository!<br><br>
+# Project
+What table games have you played?  
+I want to know that.  
+Tell me the name of table game!  
 
-I would like to know what your favorite spots in Nara.<br>
-あなたの奈良のおすすめスポットが知りたいです！
-<br><br>
+# List of Table game
+1.  UNO  
+2.  Othello
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10.  
 
-Especially, I would be very happy to receive information about good restaurants and cafes.<br>
-特に、おいしいレストランやカフェの情報を教えてもらえると嬉しいです！
-<br><br>
 
-If you help my project, please add your favorite spot in Nara into the List of Hobby.<br>
-もし、このプロジェクトにご協力いただけるなら、あなたのお気に入りの奈良県内のスポットを「List of Hobby」に追加してください。<br><br>
 
-Thank you for your cooperation.<br>
-
-# List of Hobby
+© 2022 GitHub, Inc.
+Terms
+Privacy
