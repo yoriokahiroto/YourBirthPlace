@@ -31,6 +31,10 @@ Tell me the name of game!
 8
 9
 10
+1. Fork this project and then rename the title to your hobby. 
+2. Announce the new project and try to attract other members.
+3. Make 10 Pull Request contributions to other projects
+4. Merge 10 Pull Requests into your forked Project.
 
 
 © 2022 GitHub, Inc.
