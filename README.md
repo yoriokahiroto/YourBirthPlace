@@ -20,12 +20,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-#My project
+# My project.
 Please tell me your favorite food.
 One or more food is OK.
 
 Example
 1.Sushi
 2.Curry
+
 # List of food
 1.
