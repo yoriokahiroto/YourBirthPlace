@@ -16,12 +16,12 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Project
-What games have you played?
+What table games have you played?
 I want to know that.
-Tell me the name of game! 
+Tell me the name of table game! 
 
-# List of Game
-1.  Super Smash Bros. Ultimate  
+# List of Table game
+1.  UNO  
 2.  
 3.  
 4.  
