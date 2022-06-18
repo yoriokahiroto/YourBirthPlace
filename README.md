@@ -12,7 +12,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 To complete the assignment, please do the following:
 1. Fork this project and then rename the title to your hobby. 
 2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
+3. Make 10 Pull Request contributions to other projects.
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please tell me your favorite food.
 One or more food is OK.
 
-Example
+Example:
 1.Sushi.
 2.Curry.
 
