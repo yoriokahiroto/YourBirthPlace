@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # My Project
 I've been a swimmer for over 10 years, but I'm still not good at backstroke (by the way, my specialty is breaststroke).
 
-Is there any swimming method that you are not good at?
+Is there any swimming method that you are **not** good at?
 
 Choices
 1. Crawl(クロール)
@@ -34,7 +34,7 @@ Choices
 6. All
 7. Others
 
-# List of Hobby
+# List of Swimming Style
 - Breaststroke
 - Crawlstroke
 - None
