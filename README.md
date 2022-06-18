@@ -22,7 +22,7 @@ Tell me the name of table game!
 
 # List of Table game
 1.  UNO  
-2.  
+2.  カタン
 3.  
 4.  
 5.  
