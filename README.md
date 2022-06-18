@@ -21,16 +21,16 @@ I want to know that.
 Tell me the name of game! 
 
 # List of Game
-1  Super Smash Bros. Ultimate  
-2  
-3  
-4  
-5  
-6  
-7  
-8  
-9  
-10  
+1.  Super Smash Bros. Ultimate  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10.  
 
 
 
