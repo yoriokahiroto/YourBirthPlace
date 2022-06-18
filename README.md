@@ -38,3 +38,4 @@ Choices
 - Breaststroke
 - Crawlstroke
 - None
+- Butterfly
