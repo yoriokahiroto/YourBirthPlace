@@ -21,12 +21,12 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # My project.
-Please tell me your favorite food.
+Please tell me your own cooked food in the last week.
 One or more food is OK.
 
 Example:
 
-1.Sushi.
+1.Fried chicken.
 
 2.Curry.
 
