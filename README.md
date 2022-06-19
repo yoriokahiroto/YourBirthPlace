@@ -27,7 +27,7 @@ Tell me the name of table game!
 4.  Shogi  
 5.  Catan  
 6.  Backgammon  
-7.  
+7.  Go
 8.  
 9.  
 10.      
