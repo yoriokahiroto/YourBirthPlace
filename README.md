@@ -10,14 +10,16 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # Requirements
 To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
+1. Fork this project and then rename the title to your hobby.
 2. Announce the new project and try to attract other members.
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Tv drama collection)
+Goal - I want contributors to help me list some favorite Japanese TV drama.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of TV Drama
+・Invisible
+・やんごとなき一族
+・恋なんて、本気でやってどうするの？
+・マイファミリー
