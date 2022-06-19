@@ -43,3 +43,4 @@ Choices
 - Butterfly
 - All
 - Backstroke!
+- Freestlye
