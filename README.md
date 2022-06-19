@@ -44,3 +44,4 @@ Choices
 - All
 - Backstroke!
 - Never breathe
+- Freestlye
