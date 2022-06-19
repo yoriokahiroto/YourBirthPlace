@@ -40,4 +40,4 @@ Choices
 - Crawlstroke
 - None
 - Butterfly
-- 
+- All
