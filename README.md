@@ -22,15 +22,15 @@ Tell me the name of table game!
 
 # List of Table game
 1.  UNO  
-2.  Shogi
-3.  
-4.  
+2.  Shogi  
+3.  Catan  
+4.  Backgammon  
 5.  
 6.  
 7.  
 8.  
 9.  
-10.  
+10.      
 
 
 
