@@ -12,23 +12,15 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 To complete the assignment, please do the following:
 1. Fork this project and then rename the title to your hobby. 
 2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects.
+3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Project
+みんなの日本で好きな場所を集めています。日本で一番好きな場所はどこですか？
+I'm collecting your favorit places in Japan. Where is your favorit place in Japan?
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# My project.
-Please tell me your own cooked food in the last week.
-One or more food is OK.
-
-Example:
-
-1.Fried chicken.
-
-2.Curry.
-
-# List of food
-1. Karaage
+# List of Places
+1. Tokyo Disney Land
+2. Universal studio Japan
+3. Your place
+4. Home
