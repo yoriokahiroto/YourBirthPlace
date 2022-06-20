@@ -31,3 +31,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 9. Pennsylvania, America
 10. 昆明 (Kun Ming) 
 11. Petion-Ville (Haiti)
+12. 大阪 (Osaka)
+
