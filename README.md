@@ -22,6 +22,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
 
+1.千と千尋の神隠し
 - Weathering With You（天気の子）
 -the Truman Show
 
