@@ -1,26 +1,34 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-# Rules
+# TELL ME YOUR BIRTHPLACE.
+<あなたの出身はどこですか？>
 
-1. Please choose a hobby or some interest that you want to build your repository
-2. Make a README to announce this theme (i.e., my favourite video games or anime)
-3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
-4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
+## IT MIGHT BE THE OPPATUNITY TO INTRODUCE YOURSELF TO OTHERS.
+<みんなに自分のことを知ってもらえる機会になるかも？>
 
-# Requirements
-To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
-2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
-4. Merge 10 Pull Requests into your forked Project.
+### FOR EXAMPLE(BOTH COUNTRY and RIGION　is OK!!)
+  北アメリカ (Northern America)<br>,奈良(NARA)<br>,
+  東アジア (Eastern Asia),東南アジア (South-Eastern Asia)<br>,
+  オーストラリア・ニュージーランド (Australia and New Zealand)<br>
+  金星（Venus）,,,etc
+# Example.  
+HELP I NEED SOMEBDDY! HELP YES EVERYBADY! HELP YOU KNOW I NEED SOMEONE!  HELP!
+[https://github.com/yoriokahiroto/YourBirthPlace ]
 
-# My Project (Software Service). 
-What is your favorite or useful Software Service such like notion, Boost note. <br />
-Anything is ok within related to software. <br />
-if you help my project, pls add your favorite software into the List of Hobby with <strong> its link </strong>.
-for example
-- [Notion](https://github.com/namekosiru/FavoriteSoftwareService.git)
+https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 
-I'm looking forward to your effort!
-# List of Hobby
+# List of BirthPlace(Pleas add here)
+
+1. Osaka
+2. 香川（KAGAWA）
+3. 神奈川(KANAGAWA)
+4. 愛知（Aichi）
+5. 深圳 (Shen Zhen)
+6. Jakarta City (INDONESIA)
+7. 滋賀（Shiga）
+8. 奈良 (Nara)
+9. Pennsylvania, America
+10. 昆明 (Kun Ming) 
+
+nara
