@@ -21,4 +21,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+
+- Weathering With You（天気の子）
 -the Truman Show
+
