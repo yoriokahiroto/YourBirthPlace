@@ -28,9 +28,10 @@ Tell me the name of table game!
 5.  Catan  
 6.  Backgammon  
 7.  Go
-8.  
+8.  chess
 9.  
-10.      
+10.  
+     
 
 
 
