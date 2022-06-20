@@ -22,3 +22,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
 1.千と千尋の神隠し
+-the Truman Show
+
