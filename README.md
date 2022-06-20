@@ -20,6 +20,8 @@ Objective: To collect dream jobs
 
 # List of Dream Jobs.
 ・石油王<br/>
+・かぜに〜なり〜たい〜<br/>
+・石油王<br/>
 ・ひも<br/>
 ・researcher<br/>
 ・Investor<br/>
