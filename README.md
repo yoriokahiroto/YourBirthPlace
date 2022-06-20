@@ -1,3 +1,8 @@
+# Attracting Contributors
+As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+
+# Rules
+
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
@@ -7,7 +12,7 @@
 To complete the assignment, please do the following:
 1. Fork this project and then rename the title to your hobby. 
 2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
+3. Make 10 Pull Request contributions to other projects.
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
@@ -15,21 +20,15 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# Tell me your favorite progarmming language 
-Goal - I want contributors to help me list some favorite programing language
+# My project.
+Please tell me your own cooked food in the last week.
+One or more food is OK.
 
-# List of programming language
-1. TypeScript
-2. C++
-3. C#
-4. swift
-5. C++
-6. python
-7. R
-8. Java
-9. JavaScript
-10. Ocaml
-11. MATLAB
-12. Python
-13. Haskell
-14. Lisp
+Example:
+
+1.Fried chicken.
+
+2.Curry.
+
+# List of food
+1. Karaage
