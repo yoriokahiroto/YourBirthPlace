@@ -20,6 +20,7 @@ Objective: To collect dream jobs
 
 # List of Dream Jobs.
 ・石油王<br/>
+・パイロット<br/>
 ・研究者<br/>
 ・書道家<br/>
 ・数学者<br/>
