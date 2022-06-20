@@ -1,22 +1,40 @@
-# Goal 
-**COLLECT RANDOM THINGS**
+# Attracting Contributors
+As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-# List of Random Things
-- Just write anything you want here. 
-- Below are examples of images and URLs.
-- Text only is also welcome :)
-- ![Gas](https://wx3.sinaimg.cn/mw690/71fec969gy1h35p9bfdyxj20go0jg3zh.jpg "Gas Nowadays")
-- ![BasketBoy](https://wx2.sinaimg.cn/bmiddle/64112046gy1h2hhq0hy7og206o06onpe.gif "Cute Boy Playing Basketball")
-- [A Gentle Guide on Pulling Request](https://inf.news/en/tech/359be103453ed6ea8d37e2c366a80d06.html)
-- [More Cats](https://giphy.com/explore/cat)
-- ⏬⏬ PLEASE WRITE BELOW ⏬⏬
-- [首](https://w.atwiki.jp/niconicomugen/pages/7146.html)
-- Pineapple on pizza is the culinary pinnacle. I said what I said.
-- Hello im gaoshan. Nice to meet u.
-- 😃
-- My name is Giovanni Giorgio, but everybody calls me Giorgio
-- Thanks
-- While other places have... ponies or cats... we have... dragons! 😃😃😃
-- [My favorite music](https://www.youtube.com/watch?v=41c9vRZ4mB4)
-- ![バジリスクタイム-バジリスク](https://user-images.githubusercontent.com/69418560/174502738-ec3a7e01-5276-4028-9531-cdfbbf36e0c6.gif)
-- Thank you for earlier!!! I'm Makoto Sato. This is my favorite video. (https://www.youtube.com/watch?v=6Cr_8tvvQ0k)
+# Rules
+
+1. Please choose a hobby or some interest that you want to build your repository
+2. Make a README to announce this theme (i.e., my favourite video games or anime)
+3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
+4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
+
+# Requirements
+To complete the assignment, please do the following:
+1. Fork this project and then rename the title to your hobby. 
+2. Announce the new project and try to attract other members.
+3. Make 10 Pull Request contributions to other projects
+4. Merge 10 Pull Requests into your forked Project.
+
+# My project (Music-collection) 
+I'd like to know your favorite music.  
+あなたの好きな音楽が知りたいです。
+
+Please add your favorite singer name and song title to the 'List of Hobby'.  
+好きな歌手名と曲名を「List of Hobby」に追加してください。
+
+Example  
+・BTS 'Dynamite'  
+例  
+・宇多田ヒカル 'One Last Kiss'  
+
+# List of Hobby
+1. GReeeeN 'Green boys'
+2. ポルノグラフィティ '音のない森'
+3. Superfly 'Voice'
+4. All stars 'We are the world'
+5. YOASOBI 'Blue'
+6. Mr.children 'Birthday'
+7. Parov Stelar "The Sun"
+8. r-906/初音ミク'まにまに'
+9. PORNOGRAFFITTI 'Saudade'
+10. Missing 'ELLEGARDEN'
