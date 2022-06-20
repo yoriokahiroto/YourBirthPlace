@@ -19,5 +19,11 @@ To complete the assignment, please do the following:
 Objective: To collect dream jobs
 
 # List of Dream Jobs.
-・石油王
-・研究者
+・石油王<br/>
+・研究者<br/>
+・書道家<br/>
+・数学者<br/>
+・かぜに〜なり〜たい〜<br/>
+・ひも<br/>
+・researcher<br/>
+・Investor<br/>
