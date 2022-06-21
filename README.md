@@ -33,4 +33,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 11. nara
 12. Petion-Ville (Haiti)
 13. 大阪 (Osaka)
-14. 香港 （Hong Kong）
+14. 岐阜 (Gifu)
+15. 香港 （Hong Kong）
+
