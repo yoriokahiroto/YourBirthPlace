@@ -23,4 +23,6 @@ I'm collecting your favorit places in Japan. Where is your favorit place in Japa
 1. Tokyo Disney Land
 2. Universal studio Japan
 3. Your place
-4. USJ, Osaka
+4. Mt.Yatsugatake
+5. Wakayama
+6. USJ, Osaka
