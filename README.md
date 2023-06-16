@@ -36,3 +36,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 14. 岐阜 (Gifu)
 15. 香港 （Hong Kong）
 16. 广州 （Guangzhou）
+17. 高知（KOCHI)
